@@ -1,10 +1,9 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-bubble'
-import 'react-bubble/dist/index.css'
+// import { ExampleComponent } from 'react-bubble'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <div>"Create React Library Example 😄"</div>
 }
 
 export default App
